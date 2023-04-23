@@ -11,7 +11,7 @@ Ik heb in het 1ste jaar vakken gekregen zoals:
 - Wiskunden
 - object-georiënteerd programmeren
 
-In het 2de jaar heb ik tot nu toe:
+In het 2de jaar heb ik tot nu toe gekregen:
 -   Wiskunden
 -   Design Patterns
 -   Computer Graphics
