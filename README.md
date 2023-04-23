@@ -19,7 +19,7 @@ In het 2de jaar heb ik tot nu toe gekregen:
 -   Theoretische informatica
 -   Moddeling en simulation
 
-Mijn sterke punten zijn wiskunde en samenwerking.
+Mijn sterke punten zijn wiskunde en samenwerken in een groep.
 Vanwegen mijn middelbare school had ik al een hoop wiskunde b kennis. 
 
 Minder sterke punten zijn netwerken en security.
