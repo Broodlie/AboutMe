@@ -1,10 +1,10 @@
 # AboutMe
  
-Tijdens mijn opleiding heb ik meerdere programmeer talen en andere skills geleerd. Ik heb op het moment 87 studiepunten behaald waarvan 60 uit het eerste jaar komen. 
+Tijdens mijn opleiding heb ik meerdere programmeer talen en andere skills geleerd.Op het moment heb ik 87 studiepunten behaald waarvan 60 uit het eerste jaar komen. 
 
-Ik heb mijn propedeuse gehaald, samen met alle vakken uit de 1ste en 2de periode van het tweede jaar.
+Mijn propedeuse heb ik gehaald, samen met alle vakken uit de 1ste en 2de periode van het tweede jaar.
 
-Ik heb in het 1ste jaar vakken gekregen zoals:
+In het 1ste jaar zijn er vakken gegeven zoals:
 - Database
 - low-level computing
 - Netwerken en security
@@ -22,7 +22,7 @@ In het 2de jaar heb ik tot nu toe gekregen:
 Mijn sterke punten zijn wiskunde en samenwerking.
 Vanwegen mijn middelbare school had ik al een hoop wiskunde b kennis. 
 
-mijn minder sterke punten zijn netwerken en security.
+Minder sterke punten zijn netwerken en security.
 
 Meest gebruikte codeertalen: 
 - C
