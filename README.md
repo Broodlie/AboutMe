@@ -1,6 +1,6 @@
 # AboutMe
  
-Tijdens mijn opleiding heb ik meerdere programmeer talen en andere skills geleerd.Op het moment heb ik 87 studiepunten behaald waarvan 60 uit het eerste jaar komen. 
+Tijdens mijn opleiding heb ik meerdere programmeer talen en andere skills geleerd. Op het moment heb ik 87 studiepunten behaald waarvan 60 uit het eerste jaar komen. 
 
 Mijn propedeuse heb ik gehaald, samen met alle vakken uit de 1ste en 2de periode van het tweede jaar.
 
