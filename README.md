@@ -8,11 +8,11 @@ In het 1ste jaar zijn er vakken gegeven zoals:
 - Database
 - low-level computing
 - Netwerken en security
-- Wiskunden
+- Wiskunde
 - object-georiënteerd programmeren
 
 In het 2de jaar heb ik tot nu toe gekregen:
--   Wiskunden
+-   Wiskunde
 -   Design Patterns
 -   Computer Graphics
 -   Funtioneel programmeren
