@@ -31,7 +31,7 @@ skills:
 Hardware and applications:
 - Arduino Uno
 - ESP32
-- Rasberrypi pico w
+- Raspberry pi pico w
 - arduino IDE
 - Thonny
 - Visuel Studio Code
